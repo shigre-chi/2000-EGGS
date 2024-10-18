@@ -11,6 +11,9 @@
 [十三頁](#十三頁)
 [十四頁](#十四頁)
 
+### 今日限定
+![1018聯絡簿](https://github.com/shigre-chi/2000-EGGS/blob/main/1018cb.jpg?raw=true)
+
 ## 第七頁
 
 [目錄](#目錄)
