@@ -12,7 +12,7 @@
 [十四頁](#十四頁)
 
 ### 今日限定
-![1018聯絡簿](https://github.com/shigre-chi/2000-EGGS/blob/main/1018cb.jpg?raw=true)
+![1018聯絡簿](https://raw.githubusercontent.com/shigre-chi/2000-EGGS/refs/heads/main/1018cb.jpg)
 
 ## 第七頁
 
