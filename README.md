@@ -12,7 +12,7 @@
 [十四頁](#十四頁)
 
 ### 期間限定
-![1018聯絡簿](https://raw.githubusercontent.com/shigre-chi/2000-EGGS/refs/heads/main/1018cb.jpg)
+*失效*
 
 ## 第七頁
 
