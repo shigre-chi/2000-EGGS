@@ -1,12 +1,21 @@
 # 2000單
 
 ## 目錄
+
 [十三頁](#十三頁)
 [十四頁](#十四頁)
 [十五頁](#十五頁)
 [十六頁](#十六頁)
 [十七頁](#十七頁)
 [十八頁](#十八頁)
+
+[十九頁](#十九頁)
+
+[二十頁](#二十頁)
+
+[二十一](#二十一)
+
+
 
 ## 十三頁
 
@@ -78,6 +87,7 @@
 | cap       | 帽子         |
 | hat       | 帽子(有帽簷的)   |
 | button    | 鈕扣         |
+
 ## 十六頁
 
 [目錄](#目錄)
@@ -101,6 +111,7 @@
 | shoe(s)      | 鞋子       |
 | sneaker(s)   | 輕便; 運動鞋  |
 | sock(s)      | 襪子; 短襪子  |
+
 ## 十七頁
 
 [目錄](#目錄)
@@ -123,6 +134,7 @@
 | green    | 綠色的; 綠色       |
 | orange   | 橙色的; 橙色       |
 | pink     | 粉紅色的; 粉紅色     |
+
 ## 十八頁
 
 [目錄](#目錄)
@@ -145,3 +157,81 @@
 | peach     | 桃子      |
 | pear      | 西洋梨     |
 | pineapple | 鳳梨      |
+
+## 十九頁
+
+
+
+[目錄](#目錄)
+
+| \英         | 中   |
+| ---------- | --- |
+| strawberry | 草莓  |
+| tangerine  | 柑橘  |
+| tomato     | 番茄  |
+| watermelon | 西瓜  |
+| vegetable  | 蔬菜  |
+| bean       | 豆   |
+| cabbage    | 甘藍菜 |
+| carrot     | 胡蘿蔔 |
+| corn       | 玉蜀黍 |
+| lettuce    | 萵苣  |
+| onion      | 洋蔥  |
+| potato     | 馬鈴薯 |
+| pumpkin    | 南瓜  |
+| beef       | 牛肉  |
+| chicken    | 雞肉  |
+| ham        | 火腿  |
+| meat       | 肉類  |
+
+## 二十頁
+
+
+
+[目錄](#目錄)
+
+| 英            | 中         |
+| ------------ | --------- |
+| pork         | 豬肉        |
+| steak        | 牛排        |
+| seafood      | 海產; 海鮮    |
+| fish         | 魚         |
+| shrimp       | 蝦子        |
+| bread        | 麵包        |
+| bun          | 小圓麵包      |
+| toast        | 吐司; 麵包    |
+| burger       | 漢堡        |
+| French fries | 薯條        |
+| hamburger    | 漢堡        |
+| hot dog      | 熱狗        |
+| pizza        | 披薩        |
+| sandwich     | 三明治       |
+| salad        | 沙拉        |
+| cereal       | 穀類; 穀類加工品 |
+| dumpling     | 水餃; 湯圓    |
+
+## 二十一
+
+
+
+[目錄](#目錄)
+
+| 英              | 中     |
+| -------------- | ----- |
+| egg            | 蛋; 雞蛋 |
+| flour          | 麵粉    |
+| food           | 食物    |
+| noodle         | 麵條    |
+| instant noodle | 速食麵   |
+| rice           | 米     |
+| soup           | 湯     |
+| spaghetti      | 義大利麵  |
+| tofu           | 豆腐    |
+| drink          | 飲料    |
+| beer           | 啤酒    |
+| coffee         | 咖啡    |
+| Coke           | 可口可樂  |
+| ice            | 冰     |
+| juice          | 果汁    |
+| liquid         | 液體    |
+| milk           | 牛奶    |
